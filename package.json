@@ -21,8 +21,8 @@
     "lib"
   ],
   "peerDependencies": {
-    "node-dogstatsd": "0.0.5",
-    "hapi": "^8.0.0"
+    "node-dogstatsd": "0.0.6",
+    "hapi": "^9.0.0"
   },
   "devDependencies": {
     "code": "^1.2.1",
